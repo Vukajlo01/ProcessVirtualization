@@ -1,0 +1,12 @@
+D:\3. godina\VIRTUELIZACIJA PROCESA\ProcessVirtualization\Common\bin\Debug\Common.dll
+D:\3. godina\VIRTUELIZACIJA PROCESA\ProcessVirtualization\Common\bin\Debug\Common.pdb
+D:\3. godina\VIRTUELIZACIJA PROCESA\ProcessVirtualization\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+D:\3. godina\VIRTUELIZACIJA PROCESA\ProcessVirtualization\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+D:\3. godina\VIRTUELIZACIJA PROCESA\ProcessVirtualization\Common\obj\Debug\Common.dll
+D:\3. godina\VIRTUELIZACIJA PROCESA\ProcessVirtualization\Common\obj\Debug\Common.pdb
+C:\Users\doram\Downloads\dodavanjemeni\ProcessVirtualization\Common\bin\Debug\Common.dll
+C:\Users\doram\Downloads\dodavanjemeni\ProcessVirtualization\Common\bin\Debug\Common.pdb
+C:\Users\doram\Downloads\dodavanjemeni\ProcessVirtualization\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+C:\Users\doram\Downloads\dodavanjemeni\ProcessVirtualization\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\doram\Downloads\dodavanjemeni\ProcessVirtualization\Common\obj\Debug\Common.dll
+C:\Users\doram\Downloads\dodavanjemeni\ProcessVirtualization\Common\obj\Debug\Common.pdb

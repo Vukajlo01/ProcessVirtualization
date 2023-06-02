@@ -1,0 +1,22 @@
+D:\3. godina\VIRTUELIZACIJA PROCESA\ProcessVirtualization\Client\bin\Debug\Client.exe.config
+D:\3. godina\VIRTUELIZACIJA PROCESA\ProcessVirtualization\Client\bin\Debug\Client.exe
+D:\3. godina\VIRTUELIZACIJA PROCESA\ProcessVirtualization\Client\bin\Debug\Client.pdb
+D:\3. godina\VIRTUELIZACIJA PROCESA\ProcessVirtualization\Client\bin\Debug\Common.dll
+D:\3. godina\VIRTUELIZACIJA PROCESA\ProcessVirtualization\Client\bin\Debug\Common.pdb
+D:\3. godina\VIRTUELIZACIJA PROCESA\ProcessVirtualization\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+D:\3. godina\VIRTUELIZACIJA PROCESA\ProcessVirtualization\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+D:\3. godina\VIRTUELIZACIJA PROCESA\ProcessVirtualization\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\3. godina\VIRTUELIZACIJA PROCESA\ProcessVirtualization\Client\obj\Debug\Client.csproj.CopyComplete
+D:\3. godina\VIRTUELIZACIJA PROCESA\ProcessVirtualization\Client\obj\Debug\Client.exe
+D:\3. godina\VIRTUELIZACIJA PROCESA\ProcessVirtualization\Client\obj\Debug\Client.pdb
+C:\Users\doram\Downloads\dodavanjemeni\ProcessVirtualization\Client\bin\Debug\Client.exe.config
+C:\Users\doram\Downloads\dodavanjemeni\ProcessVirtualization\Client\bin\Debug\Client.exe
+C:\Users\doram\Downloads\dodavanjemeni\ProcessVirtualization\Client\bin\Debug\Client.pdb
+C:\Users\doram\Downloads\dodavanjemeni\ProcessVirtualization\Client\bin\Debug\Common.dll
+C:\Users\doram\Downloads\dodavanjemeni\ProcessVirtualization\Client\bin\Debug\Common.pdb
+C:\Users\doram\Downloads\dodavanjemeni\ProcessVirtualization\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\doram\Downloads\dodavanjemeni\ProcessVirtualization\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\doram\Downloads\dodavanjemeni\ProcessVirtualization\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\doram\Downloads\dodavanjemeni\ProcessVirtualization\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\doram\Downloads\dodavanjemeni\ProcessVirtualization\Client\obj\Debug\Client.exe
+C:\Users\doram\Downloads\dodavanjemeni\ProcessVirtualization\Client\obj\Debug\Client.pdb

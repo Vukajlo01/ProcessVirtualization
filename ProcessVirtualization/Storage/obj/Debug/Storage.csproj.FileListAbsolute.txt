@@ -1,0 +1,18 @@
+D:\3. godina\VIRTUELIZACIJA PROCESA\ProcessVirtualization\Storage\bin\Debug\Storage.dll
+D:\3. godina\VIRTUELIZACIJA PROCESA\ProcessVirtualization\Storage\bin\Debug\Storage.pdb
+D:\3. godina\VIRTUELIZACIJA PROCESA\ProcessVirtualization\Storage\bin\Debug\Common.dll
+D:\3. godina\VIRTUELIZACIJA PROCESA\ProcessVirtualization\Storage\bin\Debug\Common.pdb
+D:\3. godina\VIRTUELIZACIJA PROCESA\ProcessVirtualization\Storage\obj\Debug\Storage.csproj.AssemblyReference.cache
+D:\3. godina\VIRTUELIZACIJA PROCESA\ProcessVirtualization\Storage\obj\Debug\Storage.csproj.CoreCompileInputs.cache
+D:\3. godina\VIRTUELIZACIJA PROCESA\ProcessVirtualization\Storage\obj\Debug\Storage.csproj.CopyComplete
+D:\3. godina\VIRTUELIZACIJA PROCESA\ProcessVirtualization\Storage\obj\Debug\Storage.dll
+D:\3. godina\VIRTUELIZACIJA PROCESA\ProcessVirtualization\Storage\obj\Debug\Storage.pdb
+C:\Users\doram\Downloads\dodavanjemeni\ProcessVirtualization\Storage\bin\Debug\Storage.dll
+C:\Users\doram\Downloads\dodavanjemeni\ProcessVirtualization\Storage\bin\Debug\Storage.pdb
+C:\Users\doram\Downloads\dodavanjemeni\ProcessVirtualization\Storage\bin\Debug\Common.dll
+C:\Users\doram\Downloads\dodavanjemeni\ProcessVirtualization\Storage\bin\Debug\Common.pdb
+C:\Users\doram\Downloads\dodavanjemeni\ProcessVirtualization\Storage\obj\Debug\Storage.csproj.AssemblyReference.cache
+C:\Users\doram\Downloads\dodavanjemeni\ProcessVirtualization\Storage\obj\Debug\Storage.csproj.CoreCompileInputs.cache
+C:\Users\doram\Downloads\dodavanjemeni\ProcessVirtualization\Storage\obj\Debug\Storage.csproj.CopyComplete
+C:\Users\doram\Downloads\dodavanjemeni\ProcessVirtualization\Storage\obj\Debug\Storage.dll
+C:\Users\doram\Downloads\dodavanjemeni\ProcessVirtualization\Storage\obj\Debug\Storage.pdb

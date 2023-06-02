@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfLoad xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Load>
+    <Id>0</Id>
+    <Timestamp>2023-01-20 00:00</Timestamp>
+    <ForecastValue>6034.91</ForecastValue>
+    <MeasuredValue>6169</MeasuredValue>
+  </Load>
+  <Load>
+    <Id>1</Id>
+    <Timestamp>2023-01-20 01:00</Timestamp>
+    <ForecastValue>5687.9</ForecastValue>
+    <MeasuredValue>5768</MeasuredValue>
+  </Load>
+  <Load>
+    <Id>2</Id>
+    <Timestamp>2023-01-20 02:00</Timestamp>
+    <ForecastValue>5287.6</ForecastValue>
+    <MeasuredValue>5384</MeasuredValue>
+  </Load>
+  <Load>
+    <Id>3</Id>
+    <Timestamp>2023-01-20 03:00</Timestamp>
+    <ForecastValue>5023.27</ForecastValue>
+    <MeasuredValue>5096</MeasuredValue>
+  </Load>
+  <Load>
+    <Id>4</Id>
+    <Timestamp>2023-01-20 04:00</Timestamp>
+    <ForecastValue>4911.19</ForecastValue>
+    <MeasuredValue>4961</MeasuredValue>
+  </Load>
+  <Load>
+    <Id>5</Id>
+    <Timestamp>2023-01-20 05:00</Timestamp>
+    <ForecastValue>4973.92</ForecastValue>
+    <MeasuredValue>4974</MeasuredValue>
+  </Load>
+  <Load>
+    <Id>6</Id>
+    <Timestamp>2023-01-20 06:00</Timestamp>
+    <ForecastValue>5234.84</ForecastValue>
+    <MeasuredValue>5167</MeasuredValue>
+  </Load>
+  <Load>
+    <Id>7</Id>
+    <Timestamp>2023-01-20 07:00</Timestamp>
+    <ForecastValue>5562.69</ForecastValue>
+    <MeasuredValue>5528</MeasuredValue>
+  </Load>
+  <Load>
+    <Id>8</Id>
+    <Timestamp>2023-01-20 08:00</Timestamp>
+    <ForecastValue>5877.41</ForecastValue>
+    <MeasuredValue>5875</MeasuredValue>
+  </Load>
+  <Load>
+    <Id>9</Id>
+    <Timestamp>2023-01-20 09:00</Timestamp>
+    <ForecastValue>6097.64</ForecastValue>
+    <MeasuredValue>6137</MeasuredValue>
+  </Load>
+  <Load>
+    <Id>10</Id>
+    <Timestamp>2023-01-20 10:00</Timestamp>
+    <ForecastValue>6156.7</ForecastValue>
+    <MeasuredValue>6212</MeasuredValue>
+  </Load>
+  <Load>
+    <Id>11</Id>
+    <Timestamp>2023-01-20 11:00</Timestamp>
+    <ForecastValue>6195.29</ForecastValue>
+    <MeasuredValue>6234</MeasuredValue>
+  </Load>
+  <Load>
+    <Id>12</Id>
+    <Timestamp>2023-01-20 12:00</Timestamp>
+    <ForecastValue>6178.75</ForecastValue>
+    <MeasuredValue>6159</MeasuredValue>
+  </Load>
+  <Load>
+    <Id>13</Id>
+    <Timestamp>2023-01-20 13:00</Timestamp>
+    <ForecastValue>6125.99</ForecastValue>
+    <MeasuredValue>6010</MeasuredValue>
+  </Load>
+  <Load>
+    <Id>14</Id>
+    <Timestamp>2023-01-20 14:00</Timestamp>
+    <ForecastValue>6027.82</ForecastValue>
+    <MeasuredValue>5792</MeasuredValue>
+  </Load>
+  <Load>
+    <Id>15</Id>
+    <Timestamp>2023-01-20 15:00</Timestamp>
+    <ForecastValue>6095.02</ForecastValue>
+    <MeasuredValue>5692</MeasuredValue>
+  </Load>
+  <Load>
+    <Id>16</Id>
+    <Timestamp>2023-01-20 16:00</Timestamp>
+    <ForecastValue>6498.2</ForecastValue>
+    <MeasuredValue>5892</MeasuredValue>
+  </Load>
+  <Load>
+    <Id>17</Id>
+    <Timestamp>2023-01-20 17:00</Timestamp>
+    <ForecastValue>6679.58</ForecastValue>
+    <MeasuredValue>6183</MeasuredValue>
+  </Load>
+  <Load>
+    <Id>18</Id>
+    <Timestamp>2023-01-20 18:00</Timestamp>
+    <ForecastValue>6648.61</ForecastValue>
+    <MeasuredValue>6166</MeasuredValue>
+  </Load>
+  <Load>
+    <Id>19</Id>
+    <Timestamp>2023-01-20 19:00</Timestamp>
+    <ForecastValue>6579.31</ForecastValue>
+    <MeasuredValue>6048</MeasuredValue>
+  </Load>
+  <Load>
+    <Id>20</Id>
+    <Timestamp>2023-01-20 20:00</Timestamp>
+    <ForecastValue>6441.5</ForecastValue>
+    <MeasuredValue>5990</MeasuredValue>
+  </Load>
+  <Load>
+    <Id>21</Id>
+    <Timestamp>2023-01-20 21:00</Timestamp>
+    <ForecastValue>6273.25</ForecastValue>
+    <MeasuredValue>5926</MeasuredValue>
+  </Load>
+  <Load>
+    <Id>22</Id>
+    <Timestamp>2023-01-20 22:00</Timestamp>
+    <ForecastValue>6172.72</ForecastValue>
+    <MeasuredValue>5970</MeasuredValue>
+  </Load>
+  <Load>
+    <Id>23</Id>
+    <Timestamp>2023-01-20 23:00</Timestamp>
+    <ForecastValue>6113.13</ForecastValue>
+    <MeasuredValue>6008</MeasuredValue>
+  </Load>
+</ArrayOfLoad>
