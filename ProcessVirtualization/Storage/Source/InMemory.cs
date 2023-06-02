@@ -40,7 +40,7 @@ namespace Storage
         public void Write(Audit audit)
         {
                 audits[audit.Id] = audit;
-                time[audit.Id] = DateTime.Now;
+                
             
         }
     }
