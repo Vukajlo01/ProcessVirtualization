@@ -1,0 +1,39 @@
+D:\3. godina\VIRTUELIZACIJA PROCESA\ProcessVirtualization\Server\bin\Debug\Server.exe.config
+D:\3. godina\VIRTUELIZACIJA PROCESA\ProcessVirtualization\Server\bin\Debug\Server.exe
+D:\3. godina\VIRTUELIZACIJA PROCESA\ProcessVirtualization\Server\bin\Debug\Server.pdb
+D:\3. godina\VIRTUELIZACIJA PROCESA\ProcessVirtualization\Server\bin\Debug\Common.dll
+D:\3. godina\VIRTUELIZACIJA PROCESA\ProcessVirtualization\Server\bin\Debug\Common.pdb
+D:\3. godina\VIRTUELIZACIJA PROCESA\ProcessVirtualization\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+D:\3. godina\VIRTUELIZACIJA PROCESA\ProcessVirtualization\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+D:\3. godina\VIRTUELIZACIJA PROCESA\ProcessVirtualization\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\3. godina\VIRTUELIZACIJA PROCESA\ProcessVirtualization\Server\obj\Debug\Server.csproj.CopyComplete
+D:\3. godina\VIRTUELIZACIJA PROCESA\ProcessVirtualization\Server\obj\Debug\Server.exe
+D:\3. godina\VIRTUELIZACIJA PROCESA\ProcessVirtualization\Server\obj\Debug\Server.pdb
+D:\3. godina\VIRTUELIZACIJA PROCESA\ProcessVirtualization\Server\bin\Debug\Storage.dll
+D:\3. godina\VIRTUELIZACIJA PROCESA\ProcessVirtualization\Server\bin\Debug\Storage.pdb
+C:\Users\doram\Downloads\ProcessVirtualization (2)\ProcessVirtualization\Server\bin\Debug\Server.exe.config
+C:\Users\doram\Downloads\ProcessVirtualization (2)\ProcessVirtualization\Server\bin\Debug\Server.exe
+C:\Users\doram\Downloads\ProcessVirtualization (2)\ProcessVirtualization\Server\bin\Debug\Server.pdb
+C:\Users\doram\Downloads\ProcessVirtualization (2)\ProcessVirtualization\Server\bin\Debug\Common.dll
+C:\Users\doram\Downloads\ProcessVirtualization (2)\ProcessVirtualization\Server\bin\Debug\Storage.dll
+C:\Users\doram\Downloads\ProcessVirtualization (2)\ProcessVirtualization\Server\bin\Debug\Common.pdb
+C:\Users\doram\Downloads\ProcessVirtualization (2)\ProcessVirtualization\Server\bin\Debug\Storage.pdb
+C:\Users\doram\Downloads\ProcessVirtualization (2)\ProcessVirtualization\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\doram\Downloads\ProcessVirtualization (2)\ProcessVirtualization\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\doram\Downloads\ProcessVirtualization (2)\ProcessVirtualization\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\doram\Downloads\ProcessVirtualization (2)\ProcessVirtualization\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\doram\Downloads\ProcessVirtualization (2)\ProcessVirtualization\Server\obj\Debug\Server.exe
+C:\Users\doram\Downloads\ProcessVirtualization (2)\ProcessVirtualization\Server\obj\Debug\Server.pdb
+C:\Users\Bojan\Desktop\Vituelizacija procesa\delete\ProcessVirtualization\Server\bin\Debug\Server.exe.config
+C:\Users\Bojan\Desktop\Vituelizacija procesa\delete\ProcessVirtualization\Server\bin\Debug\Server.exe
+C:\Users\Bojan\Desktop\Vituelizacija procesa\delete\ProcessVirtualization\Server\bin\Debug\Server.pdb
+C:\Users\Bojan\Desktop\Vituelizacija procesa\delete\ProcessVirtualization\Server\bin\Debug\Common.dll
+C:\Users\Bojan\Desktop\Vituelizacija procesa\delete\ProcessVirtualization\Server\bin\Debug\Storage.dll
+C:\Users\Bojan\Desktop\Vituelizacija procesa\delete\ProcessVirtualization\Server\bin\Debug\Common.pdb
+C:\Users\Bojan\Desktop\Vituelizacija procesa\delete\ProcessVirtualization\Server\bin\Debug\Storage.pdb
+C:\Users\Bojan\Desktop\Vituelizacija procesa\delete\ProcessVirtualization\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\Bojan\Desktop\Vituelizacija procesa\delete\ProcessVirtualization\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bojan\Desktop\Vituelizacija procesa\delete\ProcessVirtualization\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Bojan\Desktop\Vituelizacija procesa\delete\ProcessVirtualization\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\Bojan\Desktop\Vituelizacija procesa\delete\ProcessVirtualization\Server\obj\Debug\Server.exe
+C:\Users\Bojan\Desktop\Vituelizacija procesa\delete\ProcessVirtualization\Server\obj\Debug\Server.pdb
